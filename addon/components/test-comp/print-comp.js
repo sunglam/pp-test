@@ -35,9 +35,14 @@ export default Component.extend({
     this._super(...arguments)
   },
 
+  didInsertElement () {
+    this._super.apply(this, arguments)
+    L.map('baba')
+  },
+
   // == Actions ===============================================================
   actions: {
 
   }
-  
+
 })
