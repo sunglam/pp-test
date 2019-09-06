@@ -1,1 +1,1 @@
-export {default} from 'pinpoint-ui/components/test-comp/print-comp'
+export {default} from 'pp-test/components/test-comp/print-comp'

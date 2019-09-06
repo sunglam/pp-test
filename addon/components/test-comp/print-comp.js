@@ -1,6 +1,6 @@
 import Ember from 'ember'
 import L from 'leaflet'
-import layout from 'pinpoint-ui/templates/components/test-comp/print-comp'
+import layout from 'pp-test/templates/components/test-comp/print-comp'
 
 const {Component} = Ember
 

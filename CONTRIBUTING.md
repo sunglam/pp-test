@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd pinpoint-ui`
+* `cd pp-test`
 * `npm install`
 
 ## Linting

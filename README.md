@@ -1,4 +1,4 @@
-pinpoint-ui
+pp-test
 ==============================================================================
 
 [Short description of the addon.]
@@ -15,7 +15,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install pinpoint-ui
+ember install pp-test
 ```
 
 
