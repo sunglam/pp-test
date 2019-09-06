@@ -39,4 +39,5 @@ export default Component.extend({
   actions: {
 
   }
+  
 })
